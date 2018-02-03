@@ -16,6 +16,16 @@ public class App {
 //		if(v > 2) {
 //			System.out.println("ola");
 //		}
+		
+		
+		//imprime na tela
 		System.out.println("Hello World!");
+
+//		System.out.println("ola");
+//		int v = 3;
+//		if(v > 2) {
+//			System.out.println("ola");
+//		}
+
 	}
 }
