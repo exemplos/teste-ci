@@ -22,6 +22,60 @@ public class App {
 		}else if(v < 2) {
 			System.out.println("eu");
 		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
+		v += Math.random();
+		if(v > 34) {
+			System.out.println("ola");
+		}else if(v < 2) {
+			System.out.println("eu");
+		}
 	}
 	
 	public static void main(String[] args) {
