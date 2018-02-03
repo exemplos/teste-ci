@@ -19,7 +19,7 @@ public class App {
 		
 		
 		//imprime na tela
-		System.out.println("Hello World!");
+		System.out.println("Hello World!");//exemplo
 
 //		System.out.println("ola");
 //		int v = 3;
