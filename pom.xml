@@ -22,4 +22,40 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <build>
+  	<plugins>
+			<plugin>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.4.2</version>
+				<dependencies>
+					<dependency>
+						<groupId>org.apache.maven.scm</groupId>
+						<artifactId>maven-scm-provider-gitexe</artifactId>
+						<version>1.8.1</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+  	
+  	</plugins>
+  </build>
+  
+  
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<url>http://localhost:8081/nexus/content/repositories/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>
+
+	<scm>
+		<connection>scm:git:https://francisco-teste@github.com/exemplos/teste-ci.git</connection>
+		<developerConnection>scm:git:https://francisco-teste@github.com/exemplos/teste-ci.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+  
 </project>
