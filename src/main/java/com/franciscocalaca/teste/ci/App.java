@@ -7,7 +7,7 @@ package com.franciscocalaca.teste.ci;
 public class App {
 	
 	private App() {
-		
+		//modificado
 	}
 	
 	public static void metodo(int v) {
