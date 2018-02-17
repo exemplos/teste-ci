@@ -8,6 +8,7 @@ public class App {
 	
 	private App() {
 		//modificado
+		//outra modificacao
 	}
 	
 	public static void metodo(int v) {
