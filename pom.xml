@@ -3,7 +3,7 @@
 
   <groupId>com.franciscocalaca</groupId>
   <artifactId>teste-ci</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.3</version>
   <packaging>jar</packaging>
 
   <name>teste-ci</name>
@@ -54,7 +54,7 @@
 	<scm>
 		<connection>scm:git:https://francisco-teste@github.com/exemplos/teste-ci.git</connection>
 		<developerConnection>scm:git:https://francisco-teste@github.com/exemplos/teste-ci.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>teste-ci-0.0.3</tag>
 	</scm>
   
 </project>
