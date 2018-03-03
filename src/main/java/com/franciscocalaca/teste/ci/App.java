@@ -2,7 +2,7 @@ package com.franciscocalaca.teste.ci;
 
 /**
  * Hello world!
- * modificado
+ * modificado!
  */
 
 public class App {
