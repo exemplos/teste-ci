@@ -37,4 +37,3 @@
 <pre>
 -Dresume=false release:prepare release:perform -Dusername=<usuario> -Dpassword=<senha> -DscmCommentPrefix="Geracao release." 
 </pre>
-
